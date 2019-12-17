@@ -3,7 +3,7 @@ class Person
     puts "The Person is walking"
   end 
   def talk 
-    puts "Hello World"
+    puts "Hello World!"
 end 
 end 
 ahmed=Person.new 
